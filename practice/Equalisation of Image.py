@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("Open CV/CT-kidneys.jpeg")
+img = cv2.imread("src/CT-kidneys.jpeg")
 
 src = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 
