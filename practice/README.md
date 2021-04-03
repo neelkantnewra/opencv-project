@@ -36,3 +36,18 @@
 ![Screenshot 2021-03-26 at 1 59 31 PM](https://user-images.githubusercontent.com/63470232/112604518-3e56f400-8e3c-11eb-83ae-4fcc3836c645.png)
 
 
+# Edge Detection 
+
+## original 
+
+![A](https://user-images.githubusercontent.com/63470232/113482133-d39c5d00-94ba-11eb-9ec5-f2421d13b2d2.png)
+
+
+## sobel 
+
+![Sobel Image](https://user-images.githubusercontent.com/63470232/113482104-b36c9e00-94ba-11eb-8191-62c2171e5d2b.png)
+
+## canny 
+
+![Canny Image](https://user-images.githubusercontent.com/63470232/113482114-bcf60600-94ba-11eb-94fe-f9caa2a052e7.png)
+
