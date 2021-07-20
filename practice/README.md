@@ -2,7 +2,6 @@
 
 ![Screenshot 2021-07-20 at 9 10 01 AM](https://user-images.githubusercontent.com/63470232/126258897-a53d776a-6c34-4db7-ac63-210b3960ef9c.png)
 
-
 ![Screenshot 2021-07-20 at 9 09 33 AM](https://user-images.githubusercontent.com/63470232/126258928-e35f712f-c792-465e-a0ad-0b7e82c34917.png)
 
 
